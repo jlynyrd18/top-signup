@@ -36,4 +36,8 @@ form {
     border-bottom: black 1px solid;
 }
 
+input:focus {
+    background-color: lightblue;
+}
+
 /*at 400px use query to adjust page for computer layout */
