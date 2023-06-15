@@ -44,6 +44,10 @@ input:focus {
     background-color: lightblue;
 }
 
+p {
+    display: none;
+}
+
 /*at 400px use query to adjust page for computer layout */
 @media screen and (min-width: 750px) {
     .mountains {
