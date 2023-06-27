@@ -48,6 +48,7 @@ p {
     visibility: hidden;
     margin: 0;
     padding: 0;
+    color:red;
 }
 
 /*at 400px use query to adjust page for computer layout */
