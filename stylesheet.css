@@ -45,7 +45,9 @@ input:focus {
 }
 
 p {
-    display: none;
+    visibility: hidden;
+    margin: 0;
+    padding: 0;
 }
 
 /*at 400px use query to adjust page for computer layout */
